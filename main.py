@@ -16,7 +16,7 @@ pygame.display.set_icon(icon)
 # Изображение мишени
 target_image = pygame.image.load("image/target .png")
 target_width = 150
-target_height = 195
+target_height = 150
 
 # Изображение выстрела
 shot_image = pygame.image.load("image/shot.png")
